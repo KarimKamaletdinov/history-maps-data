@@ -61,5 +61,14 @@
     "changedCountriesNames": [
       "Вавилон"
     ]
+  },
+  {
+    "year": 0,
+    "endYear": null,
+    "name": "Возникновение Финикии",
+    "worldId": "314cd6f4-29ab-4c85-8778-cdfda9ea6c09",
+    "changedCountriesNames": [
+      "Финикия"
+    ]
   }
 ]
