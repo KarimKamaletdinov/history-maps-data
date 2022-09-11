@@ -1,11 +1,18 @@
 ﻿[
   {
-    "year": 0,
+    "year": -3120,
     "endYear": null,
-    "name": "Test",
-    "worldId": "4ef63b51-8d5f-4440-a9c6-ad14552f8212",
+    "name": "Возникновение Древнего Египта",
+    "worldId": "86dde8a2-0482-44cf-b733-fc348bc770f7",
+    "changedCountriesNames": []
+  },
+  {
+    "year": -2316,
+    "endYear": null,
+    "name": "Возникновение Древнего Аккада",
+    "worldId": "5067f821-5226-4738-a052-afbb4b793dd4",
     "changedCountriesNames": [
-      "Д"
+      "Древний Аккад"
     ]
   }
 ]
