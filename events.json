@@ -36,6 +36,15 @@
     ]
   },
   {
+    "year": -2003,
+    "endYear": null,
+    "name": "Падение Древнего Аккада",
+    "worldId": "247b6233-2452-400a-89eb-e506d4d0176e",
+    "changedCountriesNames": [
+      "Древний Аккад"
+    ]
+  },
+  {
     "year": -2000,
     "endYear": null,
     "name": "Возникновение Древней Греции",
