@@ -34,5 +34,14 @@
     "changedCountriesNames": [
       "Древний Китай"
     ]
+  },
+  {
+    "year": -2000,
+    "endYear": null,
+    "name": "Возникновение Древней Греции",
+    "worldId": "87eef085-a569-4b76-8b61-8cb369bcb520",
+    "changedCountriesNames": [
+      "Древняя Греция"
+    ]
   }
 ]
