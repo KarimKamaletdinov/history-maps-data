@@ -52,5 +52,14 @@
     "changedCountriesNames": [
       "Древняя Греция"
     ]
+  },
+  {
+    "year": -1895,
+    "endYear": null,
+    "name": "Возникновение Вавилонского Царства",
+    "worldId": "b2edb9e9-b655-4fe7-b16a-1bdf0f517b3e",
+    "changedCountriesNames": [
+      "Вавилон"
+    ]
   }
 ]
