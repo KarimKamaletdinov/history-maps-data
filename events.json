@@ -3,8 +3,19 @@
     "year": -3120,
     "endYear": null,
     "name": "Возникновение Древнего Египта",
-    "worldId": "86dde8a2-0482-44cf-b733-fc348bc770f7",
-    "changedCountriesNames": []
+    "worldId": "ba4e5ed6-6835-4941-8040-12a9b86230b3",
+    "changedCountriesNames": [
+      "Древний Египет"
+    ]
+  },
+  {
+    "year": -2400,
+    "endYear": null,
+    "name": "Возникновение Ассирии",
+    "worldId": "f954628e-ce89-460f-bc23-819320ba9fe0",
+    "changedCountriesNames": [
+      "Ассирия"
+    ]
   },
   {
     "year": -2316,
