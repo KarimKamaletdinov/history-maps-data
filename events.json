@@ -106,6 +106,15 @@
     "changedCountriesNames": []
   },
   {
+    "year": -721,
+    "endYear": null,
+    "name": "",
+    "worldId": "19c3715a-93c7-434c-8e06-592fa17e4d48",
+    "changedCountriesNames": [
+      "Ассирия"
+    ]
+  },
+  {
     "year": -720,
     "endYear": null,
     "name": "",
@@ -125,6 +134,16 @@
     ]
   },
   {
+    "year": -670,
+    "endYear": null,
+    "name": "",
+    "worldId": "a86169de-ee8b-4504-99dc-d4750b9ae5de",
+    "changedCountriesNames": [
+      "Мидия",
+      "Ассирия"
+    ]
+  },
+  {
     "year": -665,
     "endYear": null,
     "name": "",
@@ -132,6 +151,19 @@
     "changedCountriesNames": [
       "Ассирия",
       "Древний Египет"
+    ]
+  },
+  {
+    "year": -600,
+    "endYear": null,
+    "name": "",
+    "worldId": "010e659a-83c4-4a0b-acdd-f70068caa3f8",
+    "changedCountriesNames": [
+      "Египет",
+      "Вавилон",
+      "Ассирия",
+      "Мидия",
+      "Урарту"
     ]
   }
 ]
