@@ -66,9 +66,72 @@
     "year": -1300,
     "endYear": null,
     "name": "Возникновение Финикии",
-    "worldId": "33e69818-8a1b-401a-a776-730439efeccc",
+    "worldId": "cccdb3dd-4f4b-46ed-8143-0da9f393ca26",
     "changedCountriesNames": [
       "Финикия"
+    ]
+  },
+  {
+    "year": -1130,
+    "endYear": -605,
+    "name": "Ассирийские войны",
+    "worldId": "78da9ce1-d652-4af1-bb9d-8e53d7e667a1",
+    "changedCountriesNames": []
+  },
+  {
+    "year": -860,
+    "endYear": null,
+    "name": "",
+    "worldId": "e0656e64-638a-4b53-9c2b-b7f7b53a8795",
+    "changedCountriesNames": [
+      "Ассирия",
+      "Финикия",
+      "Вавилон"
+    ]
+  },
+  {
+    "year": -856,
+    "endYear": null,
+    "name": "",
+    "worldId": "384664e4-26c7-47a5-9b38-de130b3c2db5",
+    "changedCountriesNames": [
+      "Ассирия"
+    ]
+  },
+  {
+    "year": -851,
+    "endYear": null,
+    "name": "",
+    "worldId": "a8f0f2e2-ff11-431b-979f-26aee51fe3a4",
+    "changedCountriesNames": []
+  },
+  {
+    "year": -720,
+    "endYear": null,
+    "name": "",
+    "worldId": "4b4cc429-a18e-4609-9944-fcfb5a2bde7b",
+    "changedCountriesNames": [
+      "Ассирия"
+    ]
+  },
+  {
+    "year": -712,
+    "endYear": null,
+    "name": "",
+    "worldId": "1d0a6152-01ee-4119-b0cd-a575ea5ab6d1",
+    "changedCountriesNames": [
+      "Урарту",
+      "Ассирия"
+    ]
+  },
+  {
+    "year": -665,
+    "endYear": null,
+    "name": "",
+    "worldId": "c9520896-e66f-4124-9f3e-ca8e0fb70b6d",
+    "changedCountriesNames": [
+      "Ассирия",
+      "Древний Египет"
     ]
   }
 ]
