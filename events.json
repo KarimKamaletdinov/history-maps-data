@@ -72,6 +72,15 @@
     ]
   },
   {
+    "year": -1150,
+    "endYear": null,
+    "name": "Возникновение Лидии",
+    "worldId": "2318ce14-5f36-4568-8ee2-7402538a2a11",
+    "changedCountriesNames": [
+      "Лидия"
+    ]
+  },
+  {
     "year": -1130,
     "endYear": -605,
     "name": "Ассирийские войны",
@@ -104,6 +113,15 @@
     "name": "",
     "worldId": "a8f0f2e2-ff11-431b-979f-26aee51fe3a4",
     "changedCountriesNames": []
+  },
+  {
+    "year": -753,
+    "endYear": null,
+    "name": "Возникновение Древнего Рима",
+    "worldId": "5ed8bbf8-dec1-46fa-8d03-80220d9cdcb9",
+    "changedCountriesNames": [
+      "Римское царство"
+    ]
   },
   {
     "year": -721,
@@ -157,13 +175,156 @@
     "year": -600,
     "endYear": null,
     "name": "",
-    "worldId": "010e659a-83c4-4a0b-acdd-f70068caa3f8",
+    "worldId": "26d8111a-6927-4935-994c-9497be6f3cca",
     "changedCountriesNames": [
       "Египет",
       "Вавилон",
       "Ассирия",
       "Мидия",
       "Урарту"
+    ]
+  },
+  {
+    "year": -550,
+    "endYear": null,
+    "name": "Возникновение Персидской Империи",
+    "worldId": "42e54234-6b84-4c7d-afa0-4ec2e378bc14",
+    "changedCountriesNames": [
+      "Персия",
+      "Мидия"
+    ]
+  },
+  {
+    "year": -549,
+    "endYear": null,
+    "name": "",
+    "worldId": "3ab84740-7cfa-4398-b16b-e4f58120f12c",
+    "changedCountriesNames": [
+      "Персия",
+      "Мидия"
+    ]
+  },
+  {
+    "year": -548,
+    "endYear": null,
+    "name": "",
+    "worldId": "102808a6-fe21-4db8-93d5-dece57d1a87c",
+    "changedCountriesNames": [
+      "Персия",
+      "Мидия"
+    ]
+  },
+  {
+    "year": -547,
+    "endYear": null,
+    "name": "",
+    "worldId": "1ee9b44e-2e7c-4e97-b25e-3f6ba3a7f177",
+    "changedCountriesNames": [
+      "Персия",
+      "Лидия"
+    ]
+  },
+  {
+    "year": -539,
+    "endYear": null,
+    "name": "",
+    "worldId": "7335d111-3517-4d9c-8788-c62d9cd1df3e",
+    "changedCountriesNames": [
+      "Персия",
+      "Вавилон"
+    ]
+  },
+  {
+    "year": -525,
+    "endYear": null,
+    "name": "",
+    "worldId": "1a26b8db-e567-4e9f-be20-0f19335e3b80",
+    "changedCountriesNames": [
+      "Персия",
+      "Египет"
+    ]
+  },
+  {
+    "year": -509,
+    "endYear": null,
+    "name": "Изгнание Тарквиния Гордого из Рима",
+    "worldId": "b8312d3a-0876-473e-97d8-095b07f2faba",
+    "changedCountriesNames": [
+      "Римская республика",
+      "Римское царство"
+    ]
+  },
+  {
+    "year": -404,
+    "endYear": null,
+    "name": "",
+    "worldId": "5a976344-4185-4878-8a62-d2b1247fb664",
+    "changedCountriesNames": [
+      "Египет",
+      "Персия"
+    ]
+  },
+  {
+    "year": -338,
+    "endYear": null,
+    "name": "Завоевание Греции Филиппом Македонским",
+    "worldId": "30e30c26-56bf-4d67-aaa3-21b55aa8a43c",
+    "changedCountriesNames": [
+      "Македония",
+      "Древняя Греция"
+    ]
+  },
+  {
+    "year": -334,
+    "endYear": -327,
+    "name": "Завоевания Александра Македонского",
+    "worldId": "175caf27-97b6-4b61-b5f7-dfe9ead4697a",
+    "changedCountriesNames": [
+      "Македония",
+      "Персия"
+    ]
+  },
+  {
+    "year": -333,
+    "endYear": null,
+    "name": "",
+    "worldId": "436f5199-486b-485e-a724-43f46e4fe808",
+    "changedCountriesNames": [
+      "Македония",
+      "Персия"
+    ]
+  },
+  {
+    "year": -332,
+    "endYear": null,
+    "name": "",
+    "worldId": "10db22cb-44b3-423d-ad47-b08b4430ad33",
+    "changedCountriesNames": [
+      "Македония",
+      "Египет",
+      "Персия"
+    ]
+  },
+  {
+    "year": -330,
+    "endYear": null,
+    "name": "",
+    "worldId": "c22aef5e-4d78-44c3-91a5-544ff6c9d6b2",
+    "changedCountriesNames": [
+      "Македония",
+      "Персия"
+    ]
+  },
+  {
+    "year": -281,
+    "endYear": null,
+    "name": "Распад империи Александра Македонского",
+    "worldId": "b9e65fb7-096f-4466-9d10-1839095abac8",
+    "changedCountriesNames": [
+      "Лидия",
+      "Египет",
+      "Персия",
+      "Македония"
     ]
   }
 ]
