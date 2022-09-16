@@ -265,12 +265,36 @@
     ]
   },
   {
+    "year": -340,
+    "endYear": -268,
+    "name": "Завоевание Италии Римом",
+    "worldId": "1e542e67-eb10-49b6-b1b7-f7208ef5537b",
+    "changedCountriesNames": []
+  },
+  {
     "year": -338,
     "endYear": null,
-    "name": "Завоевание Греции Филиппом Македонским",
-    "worldId": "30e30c26-56bf-4d67-aaa3-21b55aa8a43c",
+    "name": "",
+    "worldId": "0f803783-bff0-4e48-ad22-c40fbc1ae882",
+    "changedCountriesNames": []
+  },
+  {
+    "year": -338,
+    "endYear": null,
+    "name": "",
+    "worldId": "af231c38-e09c-4f1d-9ee9-7429777a537f",
+    "changedCountriesNames": [
+      "Римская республика"
+    ]
+  },
+  {
+    "year": -338,
+    "endYear": null,
+    "name": "",
+    "worldId": "9b346fe6-9ab1-4103-8cb1-0ebaaa6b3102",
     "changedCountriesNames": [
       "Македония",
+      "Римская республика",
       "Древняя Греция"
     ]
   },
@@ -316,6 +340,24 @@
     ]
   },
   {
+    "year": -298,
+    "endYear": null,
+    "name": "",
+    "worldId": "82d95c0f-474a-49b8-9ae6-e7e3988bdd05",
+    "changedCountriesNames": [
+      "Римская республика"
+    ]
+  },
+  {
+    "year": -290,
+    "endYear": null,
+    "name": "",
+    "worldId": "f789e93b-ddd5-4acf-b4fb-af5993786a22",
+    "changedCountriesNames": [
+      "Римская республика"
+    ]
+  },
+  {
     "year": -281,
     "endYear": null,
     "name": "Распад империи Александра Македонского",
@@ -325,6 +367,40 @@
       "Египет",
       "Персия",
       "Македония"
+    ]
+  },
+  {
+    "year": -280,
+    "endYear": -275,
+    "name": "Пиррова война",
+    "worldId": "87ea989f-7f3c-416d-8e6d-3baae1ff47ff",
+    "changedCountriesNames": []
+  },
+  {
+    "year": -272,
+    "endYear": null,
+    "name": "",
+    "worldId": "f0d1fb5e-e0aa-4bb4-875b-4f4ed9f2e5ac",
+    "changedCountriesNames": [
+      "Римская республика"
+    ]
+  },
+  {
+    "year": -264,
+    "endYear": -241,
+    "name": "Первая Пуническая война",
+    "worldId": "892ff489-6557-47cf-a506-f600266aa246",
+    "changedCountriesNames": [
+      "Римская республика"
+    ]
+  },
+  {
+    "year": -241,
+    "endYear": null,
+    "name": "",
+    "worldId": "4398a14c-847f-487b-b3c0-3807d7b08304",
+    "changedCountriesNames": [
+      "Римская республика"
     ]
   }
 ]
