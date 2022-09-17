@@ -115,6 +115,15 @@
     "changedCountriesNames": []
   },
   {
+    "year": -814,
+    "endYear": null,
+    "name": "Возникновение Карфагена",
+    "worldId": "37b84452-10d2-4eb4-9948-4749dc84d794",
+    "changedCountriesNames": [
+      "Карфаген"
+    ]
+  },
+  {
     "year": -753,
     "endYear": null,
     "name": "Возникновение Древнего Рима",
@@ -393,7 +402,8 @@
     "name": "",
     "worldId": "4398a14c-847f-487b-b3c0-3807d7b08304",
     "changedCountriesNames": [
-      "Римская республика"
+      "Римская республика",
+      "Карфаген"
     ]
   }
 ]
